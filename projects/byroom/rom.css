@@ -1,0 +1,270 @@
+/*! CSS Used from: https://demo.themefuse.com/paradisecove/wp-content/cache/breeze-minification/css/breeze_ca2e1fe6eb5b4b09d0289a2268656436.css ; media=all */
+@media all{
+    a:focus{outline:thin dotted;}
+    a:active,a:hover{outline:0;}
+    strong{font-weight:bold;}
+    sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
+    sup{top:-.5em;}
+    img{border:0;}
+    button,input,textarea{font-family:inherit;font-size:100%;margin:0;}
+    button,input{line-height:normal;}
+    button{text-transform:none;}
+    button{-webkit-appearance:button;cursor:pointer;}
+    button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
+    textarea{overflow:auto;vertical-align:top;}
+    *,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+    input,button,textarea{font-family:inherit;font-size:inherit;line-height:inherit;}
+    button,input,textarea{background-image:none;}
+    a{color:#e8544f;text-decoration:none;}
+    a:hover,a:focus{color:#d33530;}
+    a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+    img{vertical-align:middle;}
+    @media print{
+        *{text-shadow:none!important;color:#000!important;background:transparent!important;box-shadow:none!important;}
+        a,a:visited{text-decoration:underline;}
+        a[href]:after{content:" (" attr(href) ")";}
+        a[href^="#"]:after{content:"";}
+        img{page-break-inside:avoid;}
+        img{max-width:100%!important;}
+        h2,h3{orphans:3;widows:3;}
+        h2,h3{page-break-after:avoid;}
+    }
+    h2,h3{font-family:'Pathway Gothic One',sans-serif;font-weight:400;line-height:1.1;}
+    h2,h3{margin-top:20px;margin-bottom:10px;}
+    h2{font-size:30px;}
+    h3{font-size:24px;}
+    ul{margin-top:0;margin-bottom:10px;}
+    .container{margin-right:auto;margin-left:auto;padding-left:10px;padding-right:10px;}
+    .container:before,.container:after{content:" ";display:table;}
+    .container:after{clear:both;}
+    .container:before,.container:after{content:" ";display:table;}
+    .container:after{clear:both;}
+    .row{margin-left:-10px;margin-right:-10px;}
+    .row:before,.row:after{content:" ";display:table;}
+    .row:after{clear:both;}
+    .row:before,.row:after{content:" ";display:table;}
+    .row:after{clear:both;}
+    @media (min-width:768px){
+        .container{max-width:744px;}
+    }
+    @media (min-width:992px){
+        .container{max-width:990px;}
+    }
+    @media (min-width:1200px){
+        .container{max-width:1160px;}
+    }
+    label{display:inline-block;margin-bottom:5px;font-weight:bold;}
+    .btn{display:inline-block;padding:7px 12px;margin-bottom:0;font-size:13px;font-weight:400;line-height:1.428571429;text-align:center;vertical-align:middle;cursor:pointer;border:1px solid transparent;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;text-transform:uppercase;}
+    .btn:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+    .btn:hover,.btn:focus{color:#333;text-decoration:none;}
+    .btn:active{outline:0;background-image:none;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125);}
+    .btn-primary:hover,.btn-primary:focus,.btn-primary:active{color:#fff;}
+    .btn-primary:active{background-image:none;}
+    .btn-lg{padding:12px 30px;font-size:14px;line-height:1.33;border-radius:3px;}
+    .clearfix:before,.clearfix:after{content:" ";display:table;}
+    .clearfix:after{clear:both;}
+}
+/*! CSS Used from: https://demo.themefuse.com/paradisecove/wp-content/cache/breeze-minification/css/breeze_df17258fc5618ae3b739cf4dc4e8a085.css ; media=all */
+@media all{
+    [class^="icon-"],[class*=" icon-"]{font-family:FontAwesome;font-weight:normal;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased;*margin-right:.3em;}
+    [class^="icon-"]:before,[class*=" icon-"]:before{text-decoration:inherit;display:inline-block;speak:none;}
+    a [class^="icon-"]{display:inline;}
+    [class^="icon-"],[class*=" icon-"]{display:inline;width:auto;height:auto;line-height:normal;vertical-align:text-top;background-image:none;background-position:0 0;background-repeat:repeat;margin-top:0;}
+    .icon-calendar:before{content:"\f073";}
+    .icon-angle-right:before{content:"\f105";}
+}
+/*! CSS Used from: Embedded ; media=all */
+@media all{
+    /*! @import //demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-child/../paradise-cove-parent/style.css */
+    div,span,h2,h3,a,img,strong,sup,i,ul,li,form,label{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+    ul{list-style:none;}
+    img{max-width:100%!important;height:auto!important;}
+    strong{font-weight:700;}
+    ::-moz-selection{background:#52dae6;color:#fff;text-shadow:none;}
+    ::selection{background:#52dae6;color:#fff;text-shadow:none;}
+    .alignleft{float:left;}
+    .clearfix{*zoom:1;}
+    .clear{background:none;border:0;clear:both;display:block;float:none;font-size:0;list-style:none;margin:0;padding:0;overflow:hidden;visibility:hidden;width:0;height:0;}
+    h2,h3{color:#2a303b;font-family:'Montserrat', sans-serif;font-weight:700;line-height:1.1em;}
+    h2{font-size:20px;}
+    h3{font-size:19px;}
+    a{color:#52dae6;outline:none;}
+    a:hover,a:focus{color:#d66270;}
+    form .row{padding:5px 0;}
+    input[type="text"],textarea{font-family:'Montserrat', sans-serif;background-color:#fff;font-size:13px;border:1px solid;border-color:#d4d4d4;padding:9px 10px;color:#404040;-webkit-border-radius:3px;border-radius:3px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}
+    input[type="text"]{height:16px;line-height:16px;-webkit-box-shadow:inset 0px 1px 1px 0px rgba(0, 0, 0, 0.3);box-shadow:inset 0px 0px 1px 0px rgba(0, 0, 0, 0.3);}
+    input[type="text"]:focus{-webkit-box-shadow:inset 0px 1px 1px 0px rgba(0, 0, 0, 0.5);box-shadow:inset 0px 0px 1px 0px rgba(0, 0, 0, 0.5);border-color:#b8bcc1;}
+    textarea{width:90%;overflow:auto;resize:vertical;resize:none;}
+    input,textarea,div{outline:0 none;}
+    button::-moz-focus-inner{border:0;padding:0;}
+    .btn-square{background-color:#52dae6;color:#fff;display:inline-block;font-size:15px;padding:0 0 0 16px;height:41px;line-height:41px;}
+    .btn-square i{display:inline-block;background-color:#27b5c1;margin-left:16px;height:41px;width:41px;text-align:center;float:right;font-size:24px;line-height:40px;}
+    .btn-square:hover,.btn-square:active{background-color:#d25261;color:#fff;text-decoration:none;}
+    .btn-square:hover i{background-color:#ab2e3c;}
+    .btn:hover,.btn:focus,.btn:active{color:#ffffff;}
+    .btn{-moz-box-shadow:inset 0px 0px 1px 0px 0px rgba(255,255,255,0.25);-webkit-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.25);box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.25), 0px 1px 1px 0px rgba(0,0,0,0.15);}
+    .btn-primary{background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d45967), color-stop(1, #ce4c5b) );background:-moz-linear-gradient( center top, #d45967 5%, #ce4c5b 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d45967', endColorstr='#ce4c5b');background-color:#d45967;color:#fff!important;border-color:#ca4e2a;}
+    .container{margin-left:auto;margin-right:auto;width:940px;position:relative;padding:0;}
+    .omega{margin-right:0!important;}
+    form .row{padding:10px 0;position:relative;}
+    .row{*zoom:1;}
+    .row:before,.row:after{content:" ";display:table;line-height:0;}
+    .row:after{clear:both;}
+    .row .icon{display:block;float:left;background-color:#29434c;color:#fff;height:41px;width:41px;margin-left:-41px;border-left:1px solid #3f565e;line-height:41px;font-size:15px;text-align:center;-webkit-border-radius:0 2px 2px 0;-moz-border-radius:0 2px 2px 0;border-radius:0 2px 2px 0;}
+    .star_rating{padding-top:5px;}
+    .star_rating span{display:inline-block;width:15px;height:15px;background:url(//demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-parent/images/icons/rating.png) 0 0 no-repeat;}
+    .star_rating.rating5 span{background-position:0 -15px;}
+    .star_rating span.half-star{background-position:0 -30px;}
+    .middle .container{width:940px;}
+    .room-price{color:#d66270;font-size:18px;position:absolute;top:2px;right:0;}
+    .book-table{-webkit-box-shadow:0px 1px 2px 0px rgba(0, 0, 0, 0.15);box-shadow:0px 1px 2px 0px rgba(0, 0, 0, 0.15);background-color:#fff;border:1px solid #dcdddf;border-top:none;margin:30px auto;}
+    .book-table .row-head{border-top:2px solid #bcccdc;border-bottom:2px solid #bcccdc;background-color:#e6edf2;padding:20px 0;font-size:14px;color:#3d474b;font-weight:normal;}
+    .book-table .room-row{border-top:1px solid #d0dbe7;padding:20px 0;}
+    .book-table .room-row:first-child{border:none;}
+    .book-table div[class*="room-col-"]{float:left;padding:0 20px;-moz-box-sizing:content-box;box-sizing:content-box;position:relative;}
+    .room-row .room-col-2,.room-row .room-col-3,.room-row .room-col-4{border-left:1px solid #f4f7f9;}
+    .room-col-1{width:360px;}
+    .room-col-2{width:80px;text-align:center;}
+    .room-col-3{width:160px;}
+    .room-col-4{width:170px;}
+    .room-row .room-col-4{height:160px;display:table;}
+    .room-col-4 .inner{display:table-cell;vertical-align:middle;padding-left:10px;}
+    .room-col-1 .room-img{float:left;margin-right:20px;}
+    .room-status{font-size:10px;text-transform:uppercase;color:#8e9eac;margin-bottom:10px;}
+    .room-col-1 h2{font-size:19px;font-weight:normal;margin-bottom:10px;}
+    .room-notice{font-size:11px;color:#b0b6b9;line-height:1.3em;margin-top:10px;}
+    .room-type img{margin:10px auto 0 auto;width:39px;height:39px;}
+    .room-row .room-price{color:#474748;font-size:12px;margin-top:40px;position:relative;}
+    .room-row .room-price strong{color:#9cd70e;display:block;font-size:32px;}
+    .room-row .room-price sup{font-size:19px;}
+    .room-cond{font-size:12px;line-height:1.4em;color:#3d474b;padding:15px 0;clear:both;position:relative;}
+    .room-col-3 .room-cond:first-child{padding-top:35px;}
+    .room-cond .inputField{width:80%;font-size:12px;float:left;-webkit-box-shadow:inset 0px 1px 1px 0px rgba(0, 0, 0, 0.3);box-shadow:inset 0px 0px 1px 0px rgba(0, 0, 0, 0.3);}
+    .room-cond .icon{float:left;margin-left:-20px;height:34px;line-height:34px;color:#999;}
+    .add-comment h3{font-family:'Montserrat', sans-serif;font-size:20px;margin:0 0 25px 0;color:#4f5d6e;font-weight:normal;}
+    .comment-form .row .label_title strong{font-weight:normal;text-transform:uppercase;}
+    .add-comment{margin:10px 0 40px 0;position:relative;background:#ebf2f7;padding:25px 30px;border-radius:4px;-webkit-border-radius:4px;border-bottom:3px solid #ced6db;}
+    .add-comment h3{color:#52dae6;margin:0 0 20px 0;font-weight:normal;}
+    .comment-form .row{padding:10px 0;position:relative;margin:0 20px 0 0;}
+    .field_text{z-index:1;}
+    .comment-form .row.omega{margin-right:0;}
+    .comment-form .row .label_title{line-height:1.2em;display:block;margin-bottom:2px;color:#494c54;text-transform:none;font-size:12px;}
+    .comment-form .row .label_title strong{font-weight:normal;text-transform:uppercase;}
+    .comment-form .inputtext,.comment-form .textarea{font-size:13px;line-height:16px;height:16px;width:247px;margin:3px 0;padding:9px 10px;background-color:#fff;border:1px solid #ccd1d6;-webkit-box-shadow:inset 0px 1px 1px 0px rgba(0, 0, 0, 0.3);box-shadow:inset 0px 0px 1px 0px rgba(0, 0, 0, 0.3);}
+    .comment-form .inputtext:focus,.comment-form .textarea:focus{border-color:#b8bcc1;-webkit-box-shadow:inset 0px 1px 1px 0px rgba(0, 0, 0, 0.5);box-shadow:inset 0px 0px 1px 0px rgba(0, 0, 0, 0.5);}
+    .comment-form .textarea{width:536px;}
+    .comment-form .textarea{height:100px;overflow:auto;}
+    .comment-form .rowSubmit{padding-top:15px;position:relative;text-align:left;margin-right:0;}
+    a.link-reset{position:absolute;top:30px;right:0;font-size:11px;text-transform:uppercase;color:#51dae6;}
+    a.link-reset:hover{color:#d1505f;}
+    .contact-form{width:570px;padding:35px 50px;}
+    .contact-form .inputtext{width:202px;}
+    .contact-form .textarea{width:446px;}
+    @media print{
+        *{background:transparent!important;color:black!important;box-shadow:none!important;text-shadow:none!important;filter:none!important;-ms-filter:none!important;}
+        a,a:visited{text-decoration:underline;}
+        a[href]:after{content:" (" attr(href) ")";}
+        a[href^="#"]:after{content:"";}
+        img{page-break-inside:avoid;}
+        img{max-width:100%!important;}
+        h2,h3{orphans:3;widows:3;}
+        h2,h3{page-break-after:avoid;}
+    }
+    #lean_overlay{position:fixed;z-index:100;top:0px;left:0px;height:100%;width:100%;background:#000;display:none;}
+    .modal_window_reservation{text-align:justify;}
+    .book-table ul{position:relative;}
+    .modal_window_reservation .add-comment{margin:0;}
+    /*! end @import */
+}
+/*! CSS Used from: Embedded ; media=all */
+@media all{
+    /*! @import //demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-child/../paradise-cove-parent/screen.css */
+    @media only screen and (min-width: 280px) and (max-width: 767px){
+        .contact-form .inputtext.tfuse_rf_post_datepicker_in,.contact-form .inputtext.tfuse_rf_post_datepicker_out{max-width:215px;}
+        .contact-form  .inputtext,.contact-form .textarea{max-width:235px;}
+        .container,.middle .container{width:300px;}
+        h2{font-size:18px;}
+        h3{font-size:17px;}
+        .book-table .row-head{padding:10px 0;font-size:10px;}
+        .book-table .row-head div[class*="room-col-"]{padding:0 5px;width:64px;}
+        .book-table .room-row div[class*="room-col-"]{padding:0 5px;}
+        .room-row .room-col-2,.room-row .room-col-4{border-left:none;}
+        .room-col-1{width:290px;}
+        .room-col-2{width:80px;text-align:center;}
+        .room-col-3{width:170px;}
+        .book-table .room-row div.room-col-3{padding-left:20px;}
+        .room-col-4{width:290px;}
+        .room-row .room-col-4{height:70px;}
+        .room-col-4 .inner{vertical-align:bottom;text-align:center;padding-left:0;}
+        .room-col-1 .room-img{width:80px;height:80px;margin-right:10px;}
+        .room-status{margin-bottom:2px;}
+        .room-col-1 h2{font-size:16px;margin-bottom:2px;}
+        .room-notice{margin-top:5px;margin-bottom:20px;}
+        .room-row .room-price{margin-top:20px;}
+        .room-cond{font-size:11px;margin-top:20px;}
+        .room-type img{margin-top:5px;}
+        .add-comment h3{font-size:18px;margin:0 0 15px 0;}
+        .add-comment{padding:25px 20px;}
+        .comment-form .inputtext,.comment-form .textarea,.contact-form .textarea{width:235px;}
+        a.link-reset{position:relative;top:10px;clear:both;display:inline-block;}
+        .contact-form{width:300px;}
+    }
+    @media only screen and (min-width: 480px) and (max-width: 767px){
+        .contact-form .inputtext.tfuse_rf_post_datepicker_in,.contact-form .inputtext.tfuse_rf_post_datepicker_out{max-width:376px;}
+        .contact-form  .inputtext,.contact-form .textarea{max-width:396px;}
+        .container,.middle .container{width:460px;}
+        .book-table .row-head{padding:10px 0;font-size:10px;}
+        .book-table .row-head div[class*="room-col-"]{padding:0 10px;width:64px;}
+        .book-table .room-row div[class*="room-col-"]{padding:0 10px;}
+        .room-row .room-col-2,.room-row .room-col-4{border-left:1px solid #f4f7f9;}
+        .room-col-1{width:290px;}
+        .room-col-2{width:80px;text-align:center;}
+        .room-col-3{width:170px;}
+        .book-table .room-row div.room-col-3{padding-left:20px;}
+        .room-col-4{width:220px;}
+        .room-row .room-col-4{height:130px;}
+        .room-col-4 .inner{vertical-align:middle;text-align:right;}
+        .room-row .room-price{margin-top:10px;}
+        .room-cond{margin-top:10px;}
+        .add-comment{padding:25px 20px;}
+        .comment-form .inputtext{width:155px;}
+        .contact-form .textarea,.comment-form .textarea{width:352px;}
+        a.link-reset{position:absolute;top:25px;clear:none;display:inline-block;}
+        .contact-form{width:460px;}
+    }
+    @media only screen and (min-width: 768px) and (max-width: 990px){
+        .contact-form .inputtext.tfuse_rf_post_datepicker_in,.contact-form .inputtext.tfuse_rf_post_datepicker_out{max-width:376px;}
+        .contact-form  .inputtext,.contact-form .textarea{max-width:396px;}
+        .comment-form .inputtext{width:155px;}
+        .comment-form .textarea{width:352px;}
+        .container,.middle .container{width:728px;}
+        .book-table .row-head{padding:15px 0;font-size:13px;}
+        .book-table div[class*="room-col-"]{padding:0 20px;}
+        .row-head .room-col-4{display:none;}
+        .room-row .room-col-4{height:60px;width:auto;border:none;}
+        .room-col-4 .inner{padding-left:0px;vertical-align:bottom;text-align:right;}
+        .room-col-1 .room-img{margin-right:10px;}
+        .add-comment h3{font-size:18px;margin:0 0 15px 0;}
+        .add-comment{padding:20px 20px;}
+        .contact-form .textarea{width:175px;}
+        .contact-form{width:460px;}
+    }
+    /*! end @import */
+}
+/*! CSS Used from: https://demo.themefuse.com/paradisecove/wp-content/cache/breeze-minification/css/breeze_0af7ee13a5b45d4dfa4525516854eb19.css ; media=all */
+@media all{
+    .reservationForm .field_text .tfuse_rf_post_datepicker_in,.reservationForm .field_text .tfuse_rf_post_datepicker_out{padding-right:30px;}
+    .reservationForm .row .icon{margin-left:-20px;height:34px;line-height:34px;color:#999;background:none;border:0;position:absolute;top:30px;right:0;}
+}
+/*! CSS Used fontfaces */
+@font-face{font-family:'FontAwesome';src:url(//demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-parent/css/../fonts/fontawesome-webfont.eot?v=3.2.1);src:url(//demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-parent/css/../fonts/fontawesome-webfont.eot?#iefix&v=3.2.1) format('embedded-opentype'),url(//demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-parent/css/../fonts/fontawesome-webfont.woff?v=3.2.1) format('woff'),url(//demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-parent/css/../fonts/fontawesome-webfont.ttf?v=3.2.1) format('truetype'),url(//demo.themefuse.com/paradisecove/wp-content/themes/paradise-cove-parent/css/../fonts/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;src:local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;src:local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');unicode-range:U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;src:local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;src:local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;src:local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:700;src:local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gTD_u50.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:700;src:local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3g3D_u50.woff2) format('woff2');unicode-range:U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:700;src:local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gbD_u50.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:700;src:local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gfD_u50.woff2) format('woff2');unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Montserrat';font-style:normal;font-weight:700;src:local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}

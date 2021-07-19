@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../doim-kerak-bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="kiritish.css">
+
+
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 ">
+            <h2>Card Image</h2>
+            <p>Image at the top (card-img-top):</p>
+            <div class="card col" style="width:400px" >
+                <img class="card-img-top" src="fudbolka.jpg" alt="Card image" style="width: 100%; height: 500px;">
+                <div class="card-body">
+                    <h4 class="card-title">John Doe</h4>
+                    <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                    <a href="#" class="btn btn-primary">See Profile</a>
+                </div>
+            </div>
+        </div>
+<!--        card - kiritish  -->
+
+
+        <div class="col-md-4 ">
+
+               <h2>Image file uploads</h2>
+               <input type="file" name="inpFile" id="inpFile">
+               <div class="image-preview" id="imagePreview">
+                   <img src="" alt="image Preview" class="image-preview__image" style="width: 100%; height: 500px;">
+                   <span class="image-preview__default-text">Image Preview</span>
+               </div>
+
+               <input placeholder="maxsulot nomini yozing" type="text" class="input-group my-3 form-control" id="input" style="width: 320px; height: 50px">
+
+                <textarea placeholder="maxsulot haqida qisqacha malumot" class="my-3 form-control" name="textarea" id="textarea" cols="44" rows="4" style="width: 320px"></textarea>
+                <input type="number" id="karta" class="my-3 form-control" placeholder="karta raqamingizni kiriting" style="width: 320px; height: 50px"> <br>
+                <textarea name="pochta" id="pochta" cols="30" placeholder="pochta manzilini kiriting" rows="2" class="form-control" style="width: 320px"></textarea>
+
+<!--         <button type="button" class="btn btn-success" id="button">Yuklash</button>-->
+
+<!--            <div class="card col" style="width:400px">-->
+<!--                <img class="card-img-top" src="fudbolka.jpg" alt="Card image" style="width: 100%; height: 500px;">-->
+<!--                <div class="card-body">-->
+<!--                    <h4 class="card-title">John Doe</h4>-->
+<!--                    <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>-->
+<!--                    <a href="#" class="btn btn-primary">See Profile</a>-->
+<!--                </div>-->
+<!--            </div>-->
+        </div>
+
+        <div class="col-md-4 mt-4">
+
+<!--            <h2>Image file uploads</h2>-->
+<!--            <input type="file" name="inpFile" id="inpFile1">-->
+<!--            <div class="image-preview" id="imagePreview1">-->
+<!--                <img src="" alt="image Preview" class="image-preview__image" style="width: 100%; height: 500px;">-->
+<!--                <span class="image-preview__default-text">Image Preview</span>-->
+<!--            </div>-->
+<!--            <button type="button" class="btn btn-success" id="button1">Yuklash</button>-->
+
+            <div class="card col mt-5" style="width:400px">
+
+<!--                <h2>Image file uploads</h2>-->
+<!--                <input type="file" name="inpFile" id="inpFile1">-->
+                <div class="image-preview" id="imagePreview1">
+                    <img src="" alt="image Preview" class="image-preview__image" style="width: 100%; height: 500px;">
+                    <span class="image-preview__default-text">Image Preview</span>
+                </div>
+<!--                <button type="button" class="btn btn-success" id="button1">Yuklash</button>-->
+                <div class="card-body">
+                    <h4 class="card-title" id="name1">maxsulot nomini yozing</h4>
+                    <p class="card-text" id="name2">maxsulot haqida qisqacha malumot</p>
+                    <p id="cardnum1" style="display: none"></p>
+                    <p id="pochta1" style="display: none"></p>
+                    <a href="#" class="btn btn-primary">See Profile</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <br>
+
+</div>
+
+<script src="../doim-kerak-bootstrap/js/jquery-slim.min.js"></script>
+<script src="../doim-kerak-bootstrap/js/popover.js"></script>
+<script src="../doim-kerak-bootstrap/js/bootstrap.js"></script>
+<script src="kiritish.js"></script>
+</body>
+</html>

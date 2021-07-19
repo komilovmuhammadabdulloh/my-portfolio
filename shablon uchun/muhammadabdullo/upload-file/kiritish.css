@@ -1,0 +1,22 @@
+.image-preview {
+
+    width: 320px;
+    min-height: 500px;
+    border: 2px solid #dddddd;
+    margin-top: 15px;
+/*    default text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #cccccc;
+}
+.image-preview__image {
+    display: none;
+    width: 100%;
+}
+#button {
+    align-items: center;
+    justify-content: space-between;
+
+}
